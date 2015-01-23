@@ -1,0 +1,5 @@
+# PivotTool
+	Author: Matt1988
+
+# Diffuse Vertex Color Shaders
+	Author: Snoopbaron - Fernando Zapata
